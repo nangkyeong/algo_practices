@@ -1,7 +1,7 @@
 # algo_practices
 let's practice algorithm questions!
 
----
+
 
 # TopCoder
 I first learned basic algorithm for computer science by this book.
